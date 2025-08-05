@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const respuestaEl = document.getElementById("respuesta");
   const submitButton = form.querySelector('button[type="submit"]');
 
-  const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxqIMrTrBGwyZ...), exec";
+  const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxqIMrTrBGwyZLZhuzRFM4NCtYCKJxMVpDNskVOusQd4jJ_tAPh3CtlLPM8BzlWCC_n/exec";
 
   const paises = [
   { nombre: "Afganistán", emoji: "🇦🇫" },
